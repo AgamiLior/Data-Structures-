@@ -1,0 +1,15 @@
+{
+  "name": "dsa-sorting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^24.1.0",
+    "test": "^0.6.0"
+  }
+}
